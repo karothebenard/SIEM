@@ -21,9 +21,13 @@ Get in Touch
 If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me. I'm always eager to connect with fellow cybersecurity enthusiasts and industry professionals.
 
 INSTALLATION:
+
 Visit splunk site
+
 Log in using you account or create one if you do not have one
+
 Download the MSI installation
+
 ![image](https://github.com/karothebenard/SIEM/assets/165713653/aafba881-1a7a-44eb-a35b-acd72de0ab4d)
 
 
