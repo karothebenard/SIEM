@@ -26,9 +26,32 @@ Visit splunk site
 
 Log in using you account or create one if you do not have one
 
-Download the MSI installation
+Download the MSI installation, Please go to Letsdefend for the detailed installation process
 
 ![image](https://github.com/karothebenard/SIEM/assets/165713653/aafba881-1a7a-44eb-a35b-acd72de0ab4d)
+
+Log in using the created username and password during the installation,
+
+![image](https://github.com/karothebenard/SIEM/assets/165713653/eded87db-e59d-4480-904e-062df74197a1)
+
+Universal forwarder,
+
+Go to windows computer and download the setup file (Universal forwarder)
+![image](https://github.com/karothebenard/SIEM/assets/165713653/aa2e08ba-8c86-415e-9f39-a4ada9d2869f)
+
+Please visit letsDefend site for the detailed installation process.
+
+Kindly note that I have used Letsdefend data file and lab for practice for the below processes.
+
+
+
+
+
+
+
+
+
+
 
 
 
