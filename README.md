@@ -194,6 +194,11 @@ Reports, alerts and dashboards:
 ![image](https://github.com/karothebenard/SIEM/assets/165713653/dd7f5505-3aaf-4ef2-86c1-02895e54ac2a)
 
 
+You have reached the end of the Splunk thread.
+
+Thank you.
+
+
                   
 
                  
