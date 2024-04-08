@@ -27,13 +27,54 @@ I am a passionate IT professional transitioning into cybersecurity, with a keen 
 Get in Touch
 If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me. I'm always eager to connect with fellow cybersecurity enthusiasts and industry professionals.
 
+
+Below are two of the key learning path that leads to Splunk on LetsDefend platform which I think is key to a depth SIEM understanding.
+
+
+SIEM introduction:
+
+![image](https://github.com/karothebenard/SIEM/assets/165713653/905c3afc-a78a-495d-bdf3-a61858e24b14)
+
+     Log collection,
+
+     Log aggregation and Parsing,
+
+     Log Storage,
+
+     Alerting,
+
+
+INCIDENT MANAGEMENT 101:
+
+![image](https://github.com/karothebenard/SIEM/assets/165713653/2ef049d3-ba0b-4214-831f-60908c1cd40d)
+
+     Introduction to incident management,
+
+     Basic definition about incident management,
+
+     Incident management syatem(IMS),
+
+     Case/Alert Naming,
+
+     Playbook,
+
+     What does the SOC analyst do when an alert occurs,
+
+
+SPLUNK:
+
+
+![image](https://github.com/karothebenard/SIEM/assets/165713653/0b2104a3-36be-4c87-b084-84b87dd02ec9)
+
+
+
 INSTALLATION:
 
-Visit splunk site
+Visit splunk site,
 
-Log in using you account or create one if you do not have one
+Log in using you account or create one if you do not have one,
 
-Download the MSI installation, Please go to Letsdefend for the detailed installation process
+Download the MSI installation, Please go to Letsdefend for the detailed installation process,
 
 ![image](https://github.com/karothebenard/SIEM/assets/165713653/aafba881-1a7a-44eb-a35b-acd72de0ab4d)
 
@@ -127,6 +168,43 @@ Reports, alerts and dashboards:
           Scheduled report
 
 ![image](https://github.com/karothebenard/SIEM/assets/165713653/ac089482-2cf3-450c-9bdc-23d97390c2c3)
+
+          Alerts:Use the same request as in the report section and save as an alert.
+
+![image](https://github.com/karothebenard/SIEM/assets/165713653/415e4e81-cf8e-4375-bdd7-927d59c7d141)
+
+          Dashboards:Dashboards are made for the purpose of having same request with same information.
+
+
+          Health status:We have 4 different health status as described below
+
+![image](https://github.com/karothebenard/SIEM/assets/165713653/d22342f6-273e-433d-97c5-e6e5d66647a7)
+
+
+           User management:We have roles,user and Password management.
+
+                 Roles:The default splunk give you some role and as only account it will give you admin role. You can find roles as below.
+
+![image](https://github.com/karothebenard/SIEM/assets/165713653/00c01a2c-3fef-4c46-8d11-aad6e8695542)
+
+![image](https://github.com/karothebenard/SIEM/assets/165713653/81118bac-1e31-4075-8420-d6732af3a9b5)
+
+                  User: The default user is admin and every user must have a role.
+
+![image](https://github.com/karothebenard/SIEM/assets/165713653/dd7f5505-3aaf-4ef2-86c1-02895e54ac2a)
+
+
+                  
+
+                 
+
+
+          
+
+
+          
+
+
 
 
 
