@@ -43,6 +43,28 @@ Please visit letsDefend site for the detailed installation process.
 
 Kindly note that I have used Letsdefend data file and lab for practice for the below processes.
 
+Adding data file for the Lab
+
+![image](https://github.com/karothebenard/SIEM/assets/165713653/e0406eca-9dae-432c-9506-ebb8abe4db19)
+
+![image](https://github.com/karothebenard/SIEM/assets/165713653/f4f060ca-c622-47c4-a3ec-af2923b47bef)
+
+
+![image](https://github.com/karothebenard/SIEM/assets/165713653/87f4906e-5d31-42fd-8a93-ae9e38556726)
+
+Search data Lab exercise
+
+![image](https://github.com/karothebenard/SIEM/assets/165713653/add3e526-64ec-434d-85f4-e525f886431b)
+
+
+
+
+
+
+
+
+
+
 
 
 
