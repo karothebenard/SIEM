@@ -88,6 +88,51 @@ Search mode:
 
 ![image](https://github.com/karothebenard/SIEM/assets/165713653/add3e526-64ec-434d-85f4-e525f886431b)
 
+Reports, alerts and dashboards:
+
+          Reports: Reports are saved search results. They can be scheduled or can be executed when needed.
+
+          Try search bar
+          ![image](https://github.com/karothebenard/SIEM/assets/165713653/7530d071-620a-4108-9865-e72eb0448568)
+          Go to save as menu and select reports
+          ![image](https://github.com/karothebenard/SIEM/assets/165713653/2ef63c27-21cb-49a8-8122-935e4c207a39)
+          Give a title and description of your report
+          ![image](https://github.com/karothebenard/SIEM/assets/165713653/7eea5de8-984c-4a18-b041-7848681e06ce)
+          Save and go to view
+          ![image](https://github.com/karothebenard/SIEM/assets/165713653/ca3ba9d9-fb03-41eb-bd7a-f36b8352bda1)
+          Edit or delete an existing report
+          ![image](https://github.com/karothebenard/SIEM/assets/165713653/9d20e882-2ed2-4915-9fdc-b85329ba919f)
+          ![image](https://github.com/karothebenard/SIEM/assets/165713653/94f7aef1-1be9-464c-9403-c50914840473)
+
+          Shedule reportfrom edit button:
+
+          ![image](https://github.com/karothebenard/SIEM/assets/165713653/44f631b8-279a-439a-a57a-fa517fbb6860)
+
+          ![image](https://github.com/karothebenard/SIEM/assets/165713653/9c58e6f9-7b45-4bc7-b035-800e03ad6ca2)
+
+          Scheduled report
+
+          ![image](https://github.com/karothebenard/SIEM/assets/165713653/ac089482-2cf3-450c-9bdc-23d97390c2c3)
+
+
+
+          
+          
+
+
+          
+
+          
+
+          
+
+          
+
+          
+
+          
+          
+
 
 
 
