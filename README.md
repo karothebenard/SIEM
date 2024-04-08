@@ -1,4 +1,4 @@
-Splunk Cybersecurity Portfolio
+SIEM: SPLUNK
 
 Introduction
 Welcome to my Splunk cybersecurity portfolio! As an aspiring cybersecurity professional with a passion for technology and continuous learning, I've embarked on a journey to deepen my understanding of Splunk, a powerful tool for security information and event management (SIEM). Through the LetsDefend platform, I've completed the Splunk badge, gaining comprehensive knowledge in various aspects of Splunk administration and usage.
