@@ -54,6 +54,31 @@ Adding data file for the Lab
 
 Search data Lab exercise
 
+Tips:
+Field names are case sensitive,
+Field values are not case sensitive,
+The wild card is available(use *)
+You can use operators such as AND,OR,NOT
+
+Process:
+
+Data selection: 
+
+              :Range in terms of date presets(today,last week,last year,last 24 hours,etc.)
+              
+              :Relative(beginning of hour, x minutes ago , x weeks ago, etc.)
+              
+              :Real -time(Date range between 00:00 DD/MM/YYYY to DD/MM/YYYY 24:00)
+              
+Timeline:
+
+        : When you perform search , splunk will display a timeline.
+        
+Search mode:
+
+        :There are three modes (Fast mode,Smart mode,Verbose mode) you will use mostly the smart mode.
+              
+
 ![image](https://github.com/karothebenard/SIEM/assets/165713653/add3e526-64ec-434d-85f4-e525f886431b)
 
 
